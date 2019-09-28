@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Airport and Travel</string>
+    <string name="tab_text_1">Airports</string>
+    <string name="tab_text_2">Travel Agencies</string>
+</resources>
