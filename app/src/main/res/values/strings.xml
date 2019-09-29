@@ -2,4 +2,5 @@
     <string name="app_name">Airport and Travel</string>
     <string name="tab_text_1">Airports</string>
     <string name="tab_text_2">Travel Agencies</string>
+    <string name="GOOGLE_PLACE_API_KEY">AIzaSyAa5GIls734wyCW_ERYr8vGAw6xyRo7T7Y</string>
 </resources>
